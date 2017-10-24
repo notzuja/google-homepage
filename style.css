@@ -1,0 +1,34 @@
+.content{
+	display: block;
+}
+
+.logo{
+	margin: auto;
+	margin-top: 198px;
+	height: 92px;
+	width: 272px;
+}
+
+.searchbox{
+	margin-top: 27px;
+	/*margin: auto;*/
+}
+
+.search{
+	display: block;
+	height: 32px;
+	width: 559px;
+	padding: 5px 17px 7px 15px;
+	margin: auto;
+	box-shadow:	0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+	transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1)
+}
+.searchForm{
+	border: none;
+	margin: auto;
+	outline: none !important;
+	height: 100%;
+	width: 100%;
+	font-size: 16px;
+	vertical-align: middle;
+}
